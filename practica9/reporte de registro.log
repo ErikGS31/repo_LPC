@@ -1,0 +1,298 @@
+Fri Nov 11 22:45:33 2022: Log opened.
+Fri Nov 11 22:45:33 2022: File: C:\Users\Erik\Desktop\3er semestre FCFM\NTUSER.DAT
+Fri Nov 11 22:45:33 2022: Environment set up.
+Fri Nov 11 22:45:33 2022: Parsed Plugins file ntuser
+Fri Nov 11 22:45:33 2022: Launching logonusername v.20080324
+Fri Nov 11 22:45:33 2022: Error in logonusername: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:45:33 2022: 1 plugins completed with errors.
+Fri Nov 11 22:45:33 2022: logonusername complete.
+Fri Nov 11 22:45:33 2022: Launching acmru v.20080324
+Fri Nov 11 22:45:33 2022: Error in acmru: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:45:33 2022: 2 plugins completed with errors.
+Fri Nov 11 22:45:33 2022: acmru complete.
+Fri Nov 11 22:45:33 2022: Launching adoberdr v.20080324
+Fri Nov 11 22:45:33 2022: Error in adoberdr: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:45:33 2022: 3 plugins completed with errors.
+Fri Nov 11 22:45:33 2022: adoberdr complete.
+Fri Nov 11 22:45:33 2022: Launching aim plugin v.20080325
+Fri Nov 11 22:45:33 2022: Error in aim: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:45:33 2022: 4 plugins completed with errors.
+Fri Nov 11 22:45:33 2022: aim complete.
+Fri Nov 11 22:45:33 2022: Launching applets v.20080324
+Fri Nov 11 22:45:33 2022: Error in applets: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:45:33 2022: 5 plugins completed with errors.
+Fri Nov 11 22:45:33 2022: applets complete.
+Fri Nov 11 22:45:33 2022: Launching fileexts v.20080818
+Fri Nov 11 22:45:33 2022: Error in fileexts: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:45:33 2022: 6 plugins completed with errors.
+Fri Nov 11 22:45:33 2022: fileexts complete.
+Fri Nov 11 22:45:33 2022: Launching comdlg32 v.20080324
+Fri Nov 11 22:45:33 2022: Error in comdlg32: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:45:33 2022: 7 plugins completed with errors.
+Fri Nov 11 22:45:33 2022: comdlg32 complete.
+Fri Nov 11 22:45:33 2022: Launching compdesc v.20080324
+Fri Nov 11 22:45:33 2022: Error in compdesc: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:45:33 2022: 8 plugins completed with errors.
+Fri Nov 11 22:45:33 2022: compdesc complete.
+Fri Nov 11 22:45:33 2022: Launching controlpanel v.20080428
+Fri Nov 11 22:45:33 2022: Error in controlpanel: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:45:33 2022: 9 plugins completed with errors.
+Fri Nov 11 22:45:33 2022: controlpanel complete.
+Fri Nov 11 22:45:33 2022: Launching mmc v.20080324
+Fri Nov 11 22:45:33 2022: Error in mmc: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:45:33 2022: 10 plugins completed with errors.
+Fri Nov 11 22:45:33 2022: mmc complete.
+Fri Nov 11 22:45:33 2022: Launching mndmru v.20080324
+Fri Nov 11 22:45:33 2022: Error in mndmru: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:45:33 2022: 11 plugins completed with errors.
+Fri Nov 11 22:45:33 2022: mndmru complete.
+Fri Nov 11 22:45:33 2022: Launching mp2 v.20080324
+Fri Nov 11 22:45:33 2022: Error in mp2: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:45:33 2022: 12 plugins completed with errors.
+Fri Nov 11 22:45:33 2022: mp2 complete.
+Fri Nov 11 22:45:33 2022: Launching mpmru v.20080324
+Fri Nov 11 22:45:33 2022: Error in mpmru: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:45:33 2022: 13 plugins completed with errors.
+Fri Nov 11 22:45:33 2022: mpmru complete.
+Fri Nov 11 22:45:33 2022: Launching mspaper v.20080324
+Fri Nov 11 22:45:33 2022: Error in mspaper: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:45:33 2022: 14 plugins completed with errors.
+Fri Nov 11 22:45:33 2022: mspaper complete.
+Fri Nov 11 22:45:33 2022: Launching officedocs v.20080324
+Fri Nov 11 22:45:33 2022: Error in officedocs: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:45:33 2022: 15 plugins completed with errors.
+Fri Nov 11 22:45:33 2022: officedocs complete.
+Fri Nov 11 22:45:33 2022: Launching recentdocs v.20080418
+Fri Nov 11 22:45:33 2022: Error in recentdocs: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:45:33 2022: 16 plugins completed with errors.
+Fri Nov 11 22:45:33 2022: recentdocs complete.
+Fri Nov 11 22:45:33 2022: Launching realplayer6 v.20080324
+Fri Nov 11 22:45:33 2022: Error in realplayer6: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:45:33 2022: 17 plugins completed with errors.
+Fri Nov 11 22:45:33 2022: realplayer6 complete.
+Fri Nov 11 22:45:33 2022: Launching runmru v.20080324
+Fri Nov 11 22:45:33 2022: Error in runmru: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:45:33 2022: 18 plugins completed with errors.
+Fri Nov 11 22:45:33 2022: runmru complete.
+Fri Nov 11 22:45:33 2022: Launching tsclient v.20080324
+Fri Nov 11 22:45:33 2022: Error in tsclient: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:45:33 2022: 19 plugins completed with errors.
+Fri Nov 11 22:45:33 2022: tsclient complete.
+Fri Nov 11 22:45:33 2022: Launching typedurls v.20080324
+Fri Nov 11 22:45:33 2022: Error in typedurls: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:45:33 2022: 20 plugins completed with errors.
+Fri Nov 11 22:45:33 2022: typedurls complete.
+Fri Nov 11 22:45:33 2022: Launching muicache v.20080324
+Fri Nov 11 22:45:33 2022: Error in muicache: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:45:33 2022: 21 plugins completed with errors.
+Fri Nov 11 22:45:33 2022: muicache complete.
+Fri Nov 11 22:45:33 2022: Launching UserAssist (Active Desktop) v.20080726
+Fri Nov 11 22:45:33 2022: Error in userassist: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:45:33 2022: 22 plugins completed with errors.
+Fri Nov 11 22:45:33 2022: userassist complete.
+Fri Nov 11 22:45:33 2022: Launching user_run v.20080328
+Fri Nov 11 22:45:33 2022: Error in user_run: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:45:33 2022: 23 plugins completed with errors.
+Fri Nov 11 22:45:33 2022: user_run complete.
+Fri Nov 11 22:45:33 2022: Launching vncviewer v.20080325
+Fri Nov 11 22:45:33 2022: Error in vncviewer: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:45:33 2022: 24 plugins completed with errors.
+Fri Nov 11 22:45:33 2022: vncviewer complete.
+Fri Nov 11 22:45:33 2022: Launching WinZip v.20080325
+Fri Nov 11 22:45:33 2022: Error in winzip: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:45:33 2022: 25 plugins completed with errors.
+Fri Nov 11 22:45:33 2022: winzip complete.
+Fri Nov 11 22:45:33 2022: Launching user_win v.20080415
+Fri Nov 11 22:45:33 2022: Error in user_win: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:45:33 2022: 26 plugins completed with errors.
+Fri Nov 11 22:45:33 2022: user_win complete.
+Fri Nov 11 22:45:33 2022: Launching winrar v.20080819
+Fri Nov 11 22:45:33 2022: Error in winrar: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:45:33 2022: 27 plugins completed with errors.
+Fri Nov 11 22:45:33 2022: winrar complete.
+Fri Nov 11 22:45:33 2022: Launching wallpaper v.200800810
+Fri Nov 11 22:45:33 2022: Error in wallpaper: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:45:33 2022: 28 plugins completed with errors.
+Fri Nov 11 22:45:33 2022: wallpaper complete.
+Fri Nov 11 22:45:33 2022: Launching vista_bitbucket v.20080420
+Fri Nov 11 22:45:33 2022: Error in vista_bitbucket: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:45:33 2022: 29 plugins completed with errors.
+Fri Nov 11 22:45:33 2022: vista_bitbucket complete.
+Fri Nov 11 22:46:10 2022: Log opened.
+Fri Nov 11 22:46:10 2022: File: C:\Users\Erik\Desktop\3er semestre FCFM\NTUSER.DAT
+Fri Nov 11 22:46:10 2022: Environment set up.
+Fri Nov 11 22:46:10 2022: Parsed Plugins file ntuser
+Fri Nov 11 22:46:10 2022: Launching logonusername v.20080324
+Fri Nov 11 22:46:10 2022: Error in logonusername: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:46:10 2022: 1 plugins completed with errors.
+Fri Nov 11 22:46:10 2022: logonusername complete.
+Fri Nov 11 22:46:10 2022: Launching acmru v.20080324
+Fri Nov 11 22:46:10 2022: Error in acmru: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:46:10 2022: 2 plugins completed with errors.
+Fri Nov 11 22:46:10 2022: acmru complete.
+Fri Nov 11 22:46:10 2022: Launching adoberdr v.20080324
+Fri Nov 11 22:46:10 2022: Error in adoberdr: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:46:10 2022: 3 plugins completed with errors.
+Fri Nov 11 22:46:10 2022: adoberdr complete.
+Fri Nov 11 22:46:10 2022: Launching aim plugin v.20080325
+Fri Nov 11 22:46:10 2022: Error in aim: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:46:10 2022: 4 plugins completed with errors.
+Fri Nov 11 22:46:10 2022: aim complete.
+Fri Nov 11 22:46:10 2022: Launching applets v.20080324
+Fri Nov 11 22:46:10 2022: Error in applets: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:46:10 2022: 5 plugins completed with errors.
+Fri Nov 11 22:46:10 2022: applets complete.
+Fri Nov 11 22:46:10 2022: Launching fileexts v.20080818
+Fri Nov 11 22:46:10 2022: Error in fileexts: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:46:10 2022: 6 plugins completed with errors.
+Fri Nov 11 22:46:10 2022: fileexts complete.
+Fri Nov 11 22:46:10 2022: Launching comdlg32 v.20080324
+Fri Nov 11 22:46:10 2022: Error in comdlg32: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:46:10 2022: 7 plugins completed with errors.
+Fri Nov 11 22:46:10 2022: comdlg32 complete.
+Fri Nov 11 22:46:10 2022: Launching compdesc v.20080324
+Fri Nov 11 22:46:10 2022: Error in compdesc: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:46:10 2022: 8 plugins completed with errors.
+Fri Nov 11 22:46:10 2022: compdesc complete.
+Fri Nov 11 22:46:10 2022: Launching controlpanel v.20080428
+Fri Nov 11 22:46:10 2022: Error in controlpanel: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:46:10 2022: 9 plugins completed with errors.
+Fri Nov 11 22:46:10 2022: controlpanel complete.
+Fri Nov 11 22:46:10 2022: Launching mmc v.20080324
+Fri Nov 11 22:46:10 2022: Error in mmc: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:46:10 2022: 10 plugins completed with errors.
+Fri Nov 11 22:46:10 2022: mmc complete.
+Fri Nov 11 22:46:10 2022: Launching mndmru v.20080324
+Fri Nov 11 22:46:10 2022: Error in mndmru: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:46:10 2022: 11 plugins completed with errors.
+Fri Nov 11 22:46:10 2022: mndmru complete.
+Fri Nov 11 22:46:10 2022: Launching mp2 v.20080324
+Fri Nov 11 22:46:10 2022: Error in mp2: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:46:10 2022: 12 plugins completed with errors.
+Fri Nov 11 22:46:10 2022: mp2 complete.
+Fri Nov 11 22:46:10 2022: Launching mpmru v.20080324
+Fri Nov 11 22:46:10 2022: Error in mpmru: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:46:10 2022: 13 plugins completed with errors.
+Fri Nov 11 22:46:10 2022: mpmru complete.
+Fri Nov 11 22:46:10 2022: Launching mspaper v.20080324
+Fri Nov 11 22:46:10 2022: Error in mspaper: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:46:10 2022: 14 plugins completed with errors.
+Fri Nov 11 22:46:10 2022: mspaper complete.
+Fri Nov 11 22:46:10 2022: Launching officedocs v.20080324
+Fri Nov 11 22:46:10 2022: Error in officedocs: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:46:10 2022: 15 plugins completed with errors.
+Fri Nov 11 22:46:10 2022: officedocs complete.
+Fri Nov 11 22:46:10 2022: Launching recentdocs v.20080418
+Fri Nov 11 22:46:10 2022: Error in recentdocs: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:46:10 2022: 16 plugins completed with errors.
+Fri Nov 11 22:46:10 2022: recentdocs complete.
+Fri Nov 11 22:46:10 2022: Launching realplayer6 v.20080324
+Fri Nov 11 22:46:10 2022: Error in realplayer6: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:46:10 2022: 17 plugins completed with errors.
+Fri Nov 11 22:46:10 2022: realplayer6 complete.
+Fri Nov 11 22:46:10 2022: Launching runmru v.20080324
+Fri Nov 11 22:46:10 2022: Error in runmru: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:46:10 2022: 18 plugins completed with errors.
+Fri Nov 11 22:46:10 2022: runmru complete.
+Fri Nov 11 22:46:10 2022: Launching tsclient v.20080324
+Fri Nov 11 22:46:10 2022: Error in tsclient: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:46:10 2022: 19 plugins completed with errors.
+Fri Nov 11 22:46:10 2022: tsclient complete.
+Fri Nov 11 22:46:10 2022: Launching typedurls v.20080324
+Fri Nov 11 22:46:10 2022: Error in typedurls: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:46:10 2022: 20 plugins completed with errors.
+Fri Nov 11 22:46:10 2022: typedurls complete.
+Fri Nov 11 22:46:10 2022: Launching muicache v.20080324
+Fri Nov 11 22:46:10 2022: Error in muicache: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:46:10 2022: 21 plugins completed with errors.
+Fri Nov 11 22:46:10 2022: muicache complete.
+Fri Nov 11 22:46:10 2022: Launching UserAssist (Active Desktop) v.20080726
+Fri Nov 11 22:46:10 2022: Error in userassist: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:46:10 2022: 22 plugins completed with errors.
+Fri Nov 11 22:46:10 2022: userassist complete.
+Fri Nov 11 22:46:10 2022: Launching user_run v.20080328
+Fri Nov 11 22:46:10 2022: Error in user_run: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:46:10 2022: 23 plugins completed with errors.
+Fri Nov 11 22:46:10 2022: user_run complete.
+Fri Nov 11 22:46:10 2022: Launching vncviewer v.20080325
+Fri Nov 11 22:46:10 2022: Error in vncviewer: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:46:10 2022: 24 plugins completed with errors.
+Fri Nov 11 22:46:10 2022: vncviewer complete.
+Fri Nov 11 22:46:10 2022: Launching WinZip v.20080325
+Fri Nov 11 22:46:10 2022: Error in winzip: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:46:10 2022: 25 plugins completed with errors.
+Fri Nov 11 22:46:10 2022: winzip complete.
+Fri Nov 11 22:46:10 2022: Launching user_win v.20080415
+Fri Nov 11 22:46:10 2022: Error in user_win: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:46:10 2022: 26 plugins completed with errors.
+Fri Nov 11 22:46:10 2022: user_win complete.
+Fri Nov 11 22:46:10 2022: Launching winrar v.20080819
+Fri Nov 11 22:46:10 2022: Error in winrar: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:46:10 2022: 27 plugins completed with errors.
+Fri Nov 11 22:46:10 2022: winrar complete.
+Fri Nov 11 22:46:10 2022: Launching wallpaper v.200800810
+Fri Nov 11 22:46:10 2022: Error in wallpaper: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:46:10 2022: 28 plugins completed with errors.
+Fri Nov 11 22:46:10 2022: wallpaper complete.
+Fri Nov 11 22:46:10 2022: Launching vista_bitbucket v.20080420
+Fri Nov 11 22:46:10 2022: Error in vista_bitbucket: Cannot handle date (0, 0, 0, 1, 0, 2070) at PERL2EXE_STORAGE/Parse/Win32Registry.pm line 101
+
+Fri Nov 11 22:46:10 2022: 29 plugins completed with errors.
+Fri Nov 11 22:46:10 2022: vista_bitbucket complete.
